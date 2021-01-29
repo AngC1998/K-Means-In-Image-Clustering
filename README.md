@@ -10,4 +10,4 @@ The [Directed Readings Program](https://web.ma.utexas.edu/users/drp/about.html) 
 
 **Description of the Project**
 - We implemented a K-Means algorithm in Python to organize pixels of an original image into a specific number of groups based on the original color to create a copy of an image with that specific number of colors. 
-- We programmed in Python for the project, and utilized its NumPy and SciPy libraries. 
+- We programmed in Python for the project, and utilized its NumPy and Matplotlib libraries. 
