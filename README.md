@@ -9,5 +9,9 @@ _Advised by [Shane A. McQuarrie](https://github.com/shanemcq18)_
 The [Directed Readings Program](https://web.ma.utexas.edu/users/drp/about.html) pairs undergraduate and graduate students for a semester-long independent mathematical projects. This semester we studied certain Machine Learning concepts such as Supervised vs Unsupervised Learning, K-Nearest Neighbors, and K-Means and applied them to Pixel Quantization or Image Clustering. 
 
 **Description of the Project**
-- We implemented a K-Means algorithm in Python to organize pixels of an original image into a specific number of groups based on the original color to create a copy of an image with that specific number of colors. 
-- We programmed in Python for the project, and utilized its NumPy and Matplotlib libraries. 
+- Directed Reading Program project in Spring 2020 with mentor Shane McQuarrie
+- Developed using Python with the NumPy, SciPy, and Matplotlib libraries
+- Developed a K-Means clustering model inspired by the Obama Poster Maker on the internet
+- Model clusters pixels of an original image into groups based on the RGB and reproduces an altered image that is only colored in a specific number of specific colors 
+-- Result similar to the Obama Hope Poster image
+
