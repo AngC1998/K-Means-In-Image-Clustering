@@ -13,5 +13,5 @@ The [Directed Readings Program](https://web.ma.utexas.edu/users/drp/about.html) 
 - Developed using Python with the NumPy, SciPy, and Matplotlib libraries
 - Developed a K-Means clustering model inspired by the Obama Poster Maker on the internet
 - Model clusters pixels of an original image into groups based on the RGB and reproduces an altered image that is only colored in a specific number of specific colors 
--- Result similar to the Obama Hope Poster image
+[Result similar to the Obama Hope Poster image]
 
